@@ -9,7 +9,11 @@
 // If x is 80, then the output would be: 80 is between 0 and 25 or 75 and 100.
 // If x is 100, then the output would be: 100 is between 0 and 25 or 75 and 100.
 
-              <h1> Solution<h1>
+
+
+                                                                // Solution
+                                                                        
+                                                      
 public class Exercise1 {
   public static void main(String args[]) {
     
